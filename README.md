@@ -1,6 +1,6 @@
 Read me
 
-Jupyter notebook file will/was used for presenting purposes. 
+Jupyter notebook file will be/was used for presenting purposes. 
 
 Please use the python file to look at the code!
 

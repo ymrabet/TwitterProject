@@ -14,5 +14,16 @@ BEARER_TOKEN=YOURTOKENHERE
 QB_USER_TOKEN=YOURTOKENHERE
 ```
 
+To install required packages, use the following commands:
+
+```
+pip install -r requirements.txt
+```
+
+The script can be ran as follows: 
+
+```
+python twitter_project.py
+```
 
 
